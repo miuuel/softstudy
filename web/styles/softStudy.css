@@ -1,0 +1,221 @@
+
+.footpage{
+    background: white url("../images/footPage.jpg")no-repeat;
+    height: 129px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.footParrafo{
+  color:#FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 8.5pt;
+}
+
+.fondoMain{
+    background: white url("../images/fondoMain.jpg")no-repeat;
+    height: 129px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.titleHead{
+    background: white url("../images/imagesHead.jpg")no-repeat;
+    height: 129px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.titleNameUni{
+  text-align: center;
+  color:#FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10.5pt;
+  margin: 0 auto;
+  /*text-indent: 1cm;*/
+}
+
+.titleEslogan{
+  text-align: center;
+  color:#FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 10.5pt;
+  margin: 0 auto;
+}
+
+.titleNameAbbreviation{
+  text-align: center;  
+  color:#FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12.5pt;
+  font-weight:bold;
+  margin: 0 auto;
+}
+
+.colorLine{
+    width: 75%;
+    color:#156aa6; 
+    background-color:#156aa6;
+    margin:  0 auto;
+    vertical-align: middle
+    /*text-indent: 1cm;*/
+}
+
+
+.img_question_001{
+  
+    background:transparent content-box url("../images/img_question_001.gif") no-repeat;
+    padding: 5px 15px;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-decoration: none;
+  
+}
+
+.fondoSecundario{
+    width:70%;    
+    border: 1px solid #c4c4c4;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    padding: 9px 9px 12px 9px;
+    background: #eeeeee url(../images/jquery/ui-bg_highlight-soft_100_eeeeee_1x100.png) 50% top repeat-x;
+    min-height: 600px;
+    overflow: auto;                       
+}
+
+.loginDataBar {
+	
+	background:-webkit-gradient(linear, center top, center bottom, color-stop(0%, #FFFFFF), color-stop(50%, #FFFFFF), color-stop(100%, #EDEDED));
+	border:1px solid #CCCCCC;
+	overflow:hidden;
+	padding-right:7px;
+	padding-top:3px;
+	padding-bottom:3px;
+	line-height:12px;
+	text-align:right;
+	background-color:#F7F7F7;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+        font-weight:bold;
+	color:#0067A3;
+	font-family:Liberation sans, Arial, Sans-serif;
+	font-size:8pt;
+	padding-left:5px;
+}
+.content_p{
+    color:#0067A3;
+    font-family:Liberation sans, Arial, Sans-serif;
+    font-size:10pt;
+    text-indent: 1.5em;
+    margin-top: 0 
+}
+
+.tdHeaderTable {
+    background-color:#ebf2fa;
+    border-top:1px solid white;
+    border-bottom:1px solid #CCCCCC;
+    border-radius:4px 0px 0px 0px;
+    -moz-border-radius:4px 0px 0px 0px;
+    -webkit-border-radius:4px 0px 0px 0px;
+    color:#0067a3;
+    padding-left:10px;
+    padding-top:7px;
+    padding-bottom:7px;
+    vertical-align:top;
+    font-size:10pt;
+    text-align:left;
+    font-weight:bold;
+}
+
+.tdHelpIcon {
+	background-color:#ebf2fa;
+	border-top:1px solid white;
+	border-bottom:1px solid #CCCCCC;
+	border-radius:0px 4px 0px 0px;
+	-moz-border-radius:0px 4px 0px 0px;
+	-webkit-border-radius:0px 4px 0px 0px;
+	padding-right:9px;
+	padding-top:0px;
+	vertical-align:middle;
+        text-align:right;
+        width:4%;
+        cursor:pointer;
+}
+
+.tdImagenUsuario{
+        width:3%;
+        /*height:auto;*/
+}
+
+
+
+.defaultTableCenter {
+	text-align: center;
+	vertical-align: middle;
+}
+
+.defaultTableContent{
+	padding:0px;
+	margin:0px 0px 4px;
+	border-spacing:0px;
+}
+
+.defaultTableContent {
+        background:-moz-linear-gradient(center top, #FFFFFF, #FFFFFF 50%, #EDEDED 100%);
+	border:1px solid #CCCCCC;
+	border-radius:4px 4px 4px 4px;
+	-moz-border-radius:4px 4px 4px 4px;
+	-webkit-border-radius:4px 4px 4px 4px;
+	box-shadow:1px 3px 5px 1px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow:1px 3px 5px 1px rgba(0, 0, 0, 0.25);
+	-webkit-box-shadow:1px 3px 5px 1px rgba(0, 0, 0, 0.25);
+        width:100%; 
+}
+
+.tdContentTable {
+	padding: 8px;
+}
+
+.tdContentTableForms {
+	padding: 5px;
+}
+
+.tdContentTableLists {
+	padding: 1px;
+}
+
+.tdContentTableLists table {
+	border-spacing: 1px;
+}
+
+.tdContentTableForms table {
+	border-spacing: 3px;
+}
+
+.tdContentTableLists table td, .tdContentTableLists table th {
+	padding: 1px 4px;
+	line-height: 18px;
+}
+
+.quickAccessIcon {
+	border: none;
+	display: block;
+	margin-bottom: 0px;
+        padding-right: 0px;
+	padding-top:0px;
+        text-align:right;
+        
+}
+
+
+
+
+
+
+
+
+
+
